@@ -1,0 +1,30 @@
+ 
+TP 01 / Révision générale 
+Date : 26/08/21
+
+Exercice 01 / Formulaire de contact
+a)	Mettre en place un formulaire de "Gestion des Stagiaires" comprenant les rubriques suivantes :
+	Nom, 
+	Prénom, 
+	Adresse, 
+	Ville, 
+	Code postal,
+	Promotion
+b)	Sauvegarder les données saisies dans une Base de données de votre choix,
+c)	Afficher toutes les données saisies dans une page «Total Etudiant»
+
+Exercice 02 / Formulaire 
+a)	Mettre en place une interface de Gestion des Etudiants avec au menu les liens suivants
+d)	Prépa, 
+e)	Tertiaires, 
+f)	 IFMK, 
+g)	Nous Contacter », 
+b)	En fonction du choix effectué par le visiteur, affichez la liste des stagiaires avec les rubriques suivantes
+•	Nom, 
+•	Prénom, 
+•	Adresse, 
+•	Ville, 
+•	Code postal,
+•	Promotion
+c)	La page « Nous contacter » comprend tout simplement l’adresse de Guinot
+
